@@ -112,12 +112,12 @@ html {
   
   aside footer i {
 	overflow: hidden;
-	border-radius: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
 	width: 34px;
 	height: 34px;
-	border: 1px solid black;
-	padding: 5px;
-	margin: 5.5px;
+    margin: 5.5px;
+    padding: 5px;
 	text-align: center;
   	font-size: 1.7em
   }
